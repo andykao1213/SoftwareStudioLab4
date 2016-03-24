@@ -9,9 +9,9 @@ SoftwareStudio Lab4 2016
 
 # 組員二
 
-姓名：
+姓名：黃孟霖
 
-學號：
+學號：s103062315
 
 #Screenshot
 
